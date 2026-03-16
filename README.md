@@ -20,7 +20,8 @@ Program to implement the Decision Tree Regressor Model for Predicting the Salary
 Developed by: R . NITHISH AADITIYAA
 RegisterNumber: 25011876 
 */
-
+```
+```
 # Import libraries
 
 import pandas as pd
