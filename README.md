@@ -86,7 +86,7 @@ plt.show()
 
 ## Output:
 
-Salary Data : 
+Salary Data :
 
 
 
