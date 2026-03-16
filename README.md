@@ -89,6 +89,8 @@ plt.show()
 ## Output:
 
 Salary Data :
+
+
 <img width="384" height="263" alt="image" src="https://github.com/user-attachments/assets/209dda24-e0d8-4501-81d4-642eb8c3c739" />
 
 Actual vs Predicted :
