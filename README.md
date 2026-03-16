@@ -89,7 +89,16 @@ plt.show()
 ## Output:
 
 Salary Data :
+<img width="384" height="263" alt="image" src="https://github.com/user-attachments/assets/209dda24-e0d8-4501-81d4-642eb8c3c739" />
 
+Actual vs Predicted :
+<img width="452" height="238" alt="image" src="https://github.com/user-attachments/assets/b924c9e5-e8b2-46b2-942e-378ad0ac01ed" />
+
+Accuracy :
+<img width="389" height="66" alt="image" src="https://github.com/user-attachments/assets/61805a1a-b910-43de-afde-e11a37e19358" />
+
+Decision Tree :
+<img width="885" height="593" alt="image" src="https://github.com/user-attachments/assets/1199d04b-21b4-4056-bfa8-06ce43613e75" />
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
