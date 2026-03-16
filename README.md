@@ -14,12 +14,13 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 4. calculate Mean square error,data prediction and r2.
 
 ## Program:
+
 ```
-/*
+
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: R . NITHISH AADITIYAA
 RegisterNumber: 25011876 
-*/
+
 ```
 ```
 # Import libraries
@@ -88,7 +89,6 @@ plt.show()
 ## Output:
 
 Salary Data :
-
 
 
 ## Result:
